@@ -1,0 +1,106 @@
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+section{
+    height: 500px;
+    margin-bottom: 50px;
+}
+body{
+    font-family: 'Gilda Display', serif;
+    margin: 0;
+}
+p{
+    color: dimgray;
+}
+#name-color{
+    color: orange;
+    font-size: xx-large;
+    font-weight: 900;
+}
+.half-width{
+    width: 46%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.bio{
+    padding-top: 60px;
+}
+.image-size{
+    width: 350px;
+    height: 400px;
+    position: right;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orangered, orange);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.upper-part{
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+}
+.middle-part{
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+    margin-bottom: 100px;
+}
+.lower-part{
+    background-image: url(images/footer-bg.png);
+    background-size: cover;
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.center{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+}
+.box{
+    text-align: center;
+    padding: 20px;
+    background-color: blueviolet;
+    height: 80px;
+    width: 500px;
+    color: white;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+.button{
+    background-color: green;
+    border: 2px solid  black;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button2{
+      background-color:red;
+  }
